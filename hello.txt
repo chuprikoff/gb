@@ -1,3 +1,4 @@
 new string
 another line
 'Hello, git!'
+Hello, git rebase!
