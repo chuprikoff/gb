@@ -1,2 +1,3 @@
 new string
 another line
+'Hello, git!'
